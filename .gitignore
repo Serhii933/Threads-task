@@ -1,0 +1,8 @@
+.idea/
+ThreadsTask.iml
+Main.iml
+
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
